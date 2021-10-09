@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-figlet Auto Nekto Tuning Tester|lolcat
+figlet Auto Nikto Tuning Tester|lolcat
 echo " This script create by Harsh tagra for more https://github.com/Harsh-Tagra/ "|lolcat -a -d 40
 echo 
 
